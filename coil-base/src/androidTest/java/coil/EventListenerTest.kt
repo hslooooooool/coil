@@ -15,7 +15,6 @@ import coil.fetch.FetchResult
 import coil.fetch.Fetcher
 import coil.request.ErrorResult
 import coil.request.ImageRequest
-import coil.request.ImageResult
 import coil.request.Metadata
 import coil.request.SuccessResult
 import coil.size.Size
